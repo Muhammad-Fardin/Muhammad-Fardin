@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muhammad-Fardin;
+- 👋 Hi, I’m Muhammad Fardin;
 - 👀 I’m a MERN-Stack Developer;
 - 📫 How to reach me: 
   {
