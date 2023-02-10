@@ -5,6 +5,11 @@
     "email": "developerfardin@gmail.com", 
     "linkedin": "https://www.linkedin.com/in/muhammad-fardin-5050b3229"
   }; 
-  // Available For Hire.
+  
+ -// Available For Hire.
+ -// const mySkills: ["HTML", "CSS", "Javascript", "Reactjs", "Nodejs", "Expressjs", "MongoDb"];
+ 
+  
+
   
 
