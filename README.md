@@ -7,7 +7,8 @@
   }; 
   
  -// Available For Hire.
- -// const mySkills: ["HTML", "CSS", "Javascript", "Reactjs", "Nodejs", "Expressjs", "MongoDb"];
+ 
+ -// const skillSet: ["HTML", "CSS", "Javascript", "Reactjs", "Nodejs", "Expressjs", "MongoDb"];
  
   
 
